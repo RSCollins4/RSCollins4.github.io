@@ -37,9 +37,9 @@
                 <div class="container h-100">
                     <div class="row align-items-center h-100 justify-content-center">
                         <div class="col-lg-9 text-center">
-                            <h2 class="font-alt font-w-600 letter-spacing-2 m-0 mt-3 opacity-9-5 text-uppercase text-white title-sm-extra-large-2 title-extra-large-4">I'm Nick Berg!</h2>
+                            <h2 class="font-alt font-w-600 letter-spacing-2 m-0 mt-3 opacity-9-5 text-uppercase text-white title-sm-extra-large-2 title-extra-large-4">I'm Ryan Collins!</h2>
                             <span class="d-block font-alt mt-2 opacity-9-5 text-white title-sm-extra-large title-extra-large-3">Creative Developer</span>
-                            <span class="d-block font-alt mb-2 mt-2 opacity-9-5 text-white text-extra-large">28 years young, husband and father, pet lover, coffee addict..</span>
+                            <span class="d-block font-alt mb-2 mt-2 opacity-9-5 text-white text-extra-large">32 years young, husband and soon to be father, USMC Veteran, seeking a job opportunity in the cloud.</span>
                             <a href="#profile" class="page-scroll btn box-shadow-wide btn-base-color btn-large m-0 mt-4">Know Me Better</a>
                         </div>
                         <!-- //.col-lg-9 -->
@@ -57,15 +57,15 @@
         <nav id="navigation" class="navbar navbar-dark navbar-expand-lg bg-dark">
             <div class="container">
                 <div class="navbar-header d-lg-none">
-                    <a class="navbar-brand page-scroll" href="#page-top">BERG</a>
+                    <a class="navbar-brand page-scroll" href="#page-top">COLLINS</a>
                     
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-berg" aria-controls="navbar-berg" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-Collins" aria-controls="navbar-Collins" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                 </div>
                 <!-- //.navbar-header -->
                 
-                <div class="navbar-collapse collapse justify-content-center" id="navbar-berg">
+                <div class="navbar-collapse collapse justify-content-center" id="navbar-Collins">
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link page-scroll" href="#home">Home</a>
