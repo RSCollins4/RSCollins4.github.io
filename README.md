@@ -1,37 +1,130 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<head>
+    <title></title>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-You can use the [editor on GitHub](https://github.com/RSCollins4/RSCollins4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    <-- Bootstrap CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    
+    <-- Font Awesome CSS -->
+    <link href="assets/css/icons-mind.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <-- Include all css plugins (below), or include individual files as needed -->
+    ...
 
-### Markdown
+    <-- Theme CSS -->
+    <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <-- Color Scheme CSS -->
+    <link href="assets/css/color_pink.css" rel="stylesheet" type="text/css">
 
-```markdown
-Syntax highlighted code block
+</head>
 
-# Header 1
-## Header 2
-### Header 3
+<body id="page-top">
 
-- Bulleted
-- List
+    <-- Section - Home Start -->
+    <section id="home">
+        ...
+    </section>
+    <-- //Section - Home End -->
 
-1. Numbered
-2. List
+    <-- Navigation Start -->
+    <nav id="navigation" class="navbar navbar-dark navbar-expand-lg bg-dark">
+        ...
+    </nav>
+    <-- //Navigation End -->
+    
+    <-- Section - Profile Start -->
+    <section id="profile">
+        ...
+    </section>
+    <-- //Section - Profile End -->
 
-**Bold** and _Italic_ and `Code` text
+    <-- Section - Portfolio Start -->
+    <section id="portfolio">
+        ...
+    </section>
+    <-- //Section - Portfolio End -->
 
-[Link](url) and ![Image](src)
-```
+    <-- Section - Services Start -->
+    <section id="services">
+        ...
+    </section>
+    <-- //Section - Services End -->
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    <-- Section - Strengths Start -->
+    <section id="strengths">
+        ...
+    </section>
+    <-- //Section - Strengths End -->
 
-### Jekyll Themes
+    <-- Section - Resume Start -->
+    <section id="resume">
+        ...
+    </section>
+    <-- //Section - Resume End -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RSCollins4/RSCollins4.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <-- Section - Skills Start -->
+    <section id="skills">
+        ...
+    </section>
+    <-- //Section - Skills End -->
 
-### Support or Contact
+    <-- Section - Knowledge Start -->
+    <section id="knowledge">
+        ...
+    </section>
+    <-- //Section - Knowledge End -->
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <-- Section - Accolades Start -->
+    <section id="accolades">
+        ...
+    </section>
+    <-- //Section - Accolades End -->
+
+    <-- Section - Milestones Start -->
+    <section id="milestones">
+        ...
+    </section>
+    <-- //Section - Milestones End -->
+    
+    <-- Section - Work Process Start -->
+    <section id="work-process">
+        ...
+    </section>
+    <-- //Section - Work Process End -->
+
+    <-- Section - Contact Start -->
+    <section id="contact">
+        ...
+    </section>
+    <-- //Section - Contact End -->
+    
+    <-- Footer Start -->
+    <footer">
+        ...
+    </footer>
+    <-- //Footer End -->
+
+    <-- Scroll to top -->
+    <a href="#page-top" class="page-scroll scroll-to-top"><i class="fa fa-angle-up"></i></a>
+
+    <-- Main JS -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <-- Include all js plugins (below) -->
+    ...
+
+    <-- Theme JS -->
+    <script src="assets/js/theme.js"></script>
+    
+</body>
+</html>
