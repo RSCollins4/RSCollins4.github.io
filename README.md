@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>BERG - Creative Resume Template</title>
+        <title>COLLINS - Creative Resume Template</title>
         <meta name="description" content=""/>
         <meta name="keywords" content=""/>
         <meta charset="utf-8">
@@ -106,7 +106,7 @@
                 <div class="row">
                     <div class="col-xl-7 col-profile" data-mh="mh-col-profile">
                         <div class="pr-lg-4">
-                            <h3 class="font-alt font-w-600 letter-spacing-2 title-extra-large text-uppercase text-white">Hello, My Name is Berg!</h3>
+                            <h3 class="font-alt font-w-600 letter-spacing-2 title-extra-large text-uppercase text-white">Hello, My Name is Ryan Collins!</h3>
                             <p class="mt-4 text-large text-white">Nick Berg, 28 years young, born & grew up in Water Seven Island, Grand Line. Highly motivated creative developer with international client portfolio.</p>
                             <span class="bg-base-color mt-4 sep-line-medium-thick"></span>
                             <p class="mt-4 text-gray text-large">I currently work at Galley-La Company, where I spend most of my time crafting and working on awesome projects.</p>
