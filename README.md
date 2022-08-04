@@ -39,7 +39,7 @@
                         <div class="col-lg-9 text-center">
                             <h2 class="font-alt font-w-600 letter-spacing-2 m-0 mt-3 opacity-9-5 text-uppercase text-white title-sm-extra-large-2 title-extra-large-4">I'm Ryan Collins!</h2>
                             <span class="d-block font-alt mt-2 opacity-9-5 text-white title-sm-extra-large title-extra-large-3">Server and Cloud Administration</span>
-                            <span class="d-block font-alt mb-2 mt-2 opacity-9-5 text-white text-extra-large">32 years young, husband and soon to be father, USMC Veteran, seeking a job opportunity in the cloud.</span>
+                            <span class="d-block font-alt mb-2 mt-2 opacity-9-5 text-white text-extra-large">32 years young, husband and soon to be father, USMC Veteran, calm within the storm.</span>
                             <a href="#profile" class="page-scroll btn box-shadow-wide btn-base-color btn-large m-0 mt-4">Know Me Better</a>
                         </div>
                         <!-- //.col-lg-9 -->
